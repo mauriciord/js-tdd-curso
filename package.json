@@ -1,0 +1,12 @@
+{
+  "name": "js-tdd-curso",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS TDD",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciord/js-tdd-curso.git"
+  },
+  "author": "Mauricio R Duarte <mauriciotem@gmail.com> (https://mauriciord.com.br/)",
+  "license": "MIT"
+}
